@@ -1,0 +1,3 @@
+[submodule "E-book-client"]
+	path = E-book-client
+	url = git://github.com/liuzhengwei127/E-book-client.git
