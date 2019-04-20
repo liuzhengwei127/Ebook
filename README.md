@@ -90,16 +90,16 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 知道的越多，我知道我知道的越少     
 以下是 ~~规划的~~ 不断更改需求的开发计划        
 
-V1.0目标：     
+V1.0目标：   	  
 1.前端用Vue框架，后端用SpringBoot+SpringMVC+JDBC，前后端基本打通     
 2.实现所有功能
 3.后端用ORM框架(Mybatis)重构，优化数据库连接与操作代码    
 
-V2.0目标：
-1.关系数据库(Mysql)+Nosql数据库(MongoDB) 双数据库源管理数据      
-2.利用短信验证功能实现注册与登录
-3.应用安全性保证(Spring Security)
-4.实现邮件发送，并依此开发找回密码功能
+V2.0目标：		
+1.关系数据库(Mysql)+Nosql数据库(MongoDB) 双数据库源管理数据     		 
+2.利用短信验证功能实现注册与登录		
+3.应用安全性保证(Spring Security)		
+4.实现邮件发送，并依此开发找回密码功能		
 
 v3.0目标：     
 1.添加消息队列(RabbitMq)      
