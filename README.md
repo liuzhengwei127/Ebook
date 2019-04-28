@@ -3,7 +3,7 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 
 项目演示地址：[http://47.100.236.223/ebook](http://47.100.236.223/ebook)  
 
-\>若浏览请用chrome或Firefox打开
+\>建议用chrome或Firefox食用
 
 <br/>
 
@@ -11,37 +11,26 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 
 ## 后端技术栈
 
-1.Maven  
-
-2.SpringBoot  
-
-3.SpringActuator  
-
-4.MyBatis  
-
-5.MySQL  
-
-6.Jackson  
-
-7.Lombok  
-
-8.Fastjson  
+1. Maven
+2. SpringBoot  
+3. SpringActuator  
+4. SpringSecurity
+5. MyBatis  
+6. MySQL  
+7. Jackson  
+8. Lombok  
+9. Fastjson  
 
 ## 前端技术栈
 
-1.Vue  
-
-2.ElementUI  
-
-3.Bootstrap  
-
-3.axios  
-
-4.vue-router  
-
-5.vuex  
-
-6.vue-cli    
+1. Vue  
+2. ElementUI  
+3. Bootstrap  
+4. axios  
+5. vue-router  
+6. vuex  
+7. vue-lazyload  
+8. vue-cli    
 
 # 功能
 
@@ -54,6 +43,7 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 * 书籍搜索  
 * 下单  
 * 个人订单查看
+* 个人购买统计
 
 ## 管理员功能
 
@@ -64,12 +54,14 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 * 统计数据管理
 
 # 文档
-[点开惊喜](http://47.100.236.223/images/huashui.jpg)
+[功能需求文档](http://47.100.236.223/images/huashui.jpg)
 
 # 快速开始
 
+### 欢迎star
+
 ### E-book-client
-1.克隆项目到本地(欢迎star)  
+1.克隆E-book-client到本地  
 
 2.安装依赖``npm install``  
 
@@ -134,6 +126,20 @@ v1.4
 利用Mongodb+Mysql双数据库源存储项目数据  
 
 基于阿里云短信服务开发了手机号注册功能
+
+<br/>
+
+## 2019.4.28更新
+
+本次更新版本：
+
+v2.0  
+
+使用SpringSecurity对后端端口进行了保护
+
+基于SpringBootMail服务开发了邮箱密码找回功能
+
+图片懒加载的使用（虽然加载还是很慢...可能是服务器带宽太小）  
 
 <br/>
 
