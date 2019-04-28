@@ -54,7 +54,7 @@ EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue�
 * 统计数据管理
 
 # 文档
-[功能需求文档](http://47.100.236.223/images/huashui.jpg)
+[功能需求文档](/docs/功能需求文档.md)
 
 # 快速开始
 
