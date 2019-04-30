@@ -1,9 +1,9 @@
 ﻿# EBook
-EBook是一个在线图书购买平台，项目采用Spring Boot+SpringMVC+Vue开发
+EBook是一个简单在线图书购买平台Demo，项目采用Spring Boot+SpringMVC+Vue开发
 
 项目演示地址：[http://47.100.236.223/ebook](http://47.100.236.223/ebook)  
 
-\>建议用chrome或Firefox食用
+> 建议用chrome或Firefox食用，由于服务器带宽较低，图片加载较慢，请谅解
 
 <br/>
 
