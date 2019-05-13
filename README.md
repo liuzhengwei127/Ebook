@@ -3,7 +3,7 @@ EBook是一个简单在线图书购买平台Demo，项目采用Spring Boot+Sprin
 
 项目演示地址：[http://47.100.236.223/ebook](http://47.100.236.223/ebook)  
 
-> 建议用chrome或Firefox食用，由于服务器带宽较低，图片加载较慢，请谅解
+> 建议用chrome或Firefox食用，由于服务器带宽较低，初次加载会较慢
 
 <br/>
 
@@ -57,8 +57,6 @@ EBook是一个简单在线图书购买平台Demo，项目采用Spring Boot+Sprin
 [功能需求文档](/docs/功能需求文档.md)
 
 # 快速开始
-
-### 欢迎star
 
 ### E-book-client
 1.克隆E-book-client到本地  
@@ -143,15 +141,13 @@ v2.0
 
 <br/>
 
-# 开发计划
+# 版本历史
 
 当前版本：v2.0  
 
-知道的越多，我知道我知道的越少  
+#### 以下是版本历史  
 
-以下是 ~~规划的~~ 不断更改需求的开发计划  
-
-V1.0目标：  
+V1.0：  
 
 1.前端用Vue框架，后端用SpringBoot+SpringMVC+JDBC，前后端基本打通  
 
@@ -161,7 +157,7 @@ V1.0目标：
 
 <br/>
 
-V2.0目标：  
+V2.0：  
 
 1.关系数据库(Mysql)+Nosql数据库(MongoDB) 双数据库源管理数据  
 
@@ -173,20 +169,11 @@ V2.0目标：
 
 <br/>
 
-v3.0目标：  
-
-1.添加消息队列(RabbitMq)  
-
-2.运用分布式缓存(Redis)  
-
-3.日志收集(LogStash)  
-
-4.搜索引擎(Elasticsearch)的加入   
-
-<br/>
 
 
-# 问题
+
+# 问题与讨论
+* 欢迎star
 * 有问题可用Issues反馈交流，请给出详细信息
 
 ## License
